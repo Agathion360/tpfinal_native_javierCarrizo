@@ -1,0 +1,436 @@
+{
+  "entradas": [
+    {
+      "imagen": "enlace_a_imagen_1.jpg",
+      "titulo": "Rollos de Primavera",
+      "descripcion": "Rollos crujientes rellenos de vegetales y carne, servidos con salsa agridulce.",
+      "ingredientes": ["Col china", "Zanahoria", "Carne de cerdo", "Cebolla", "Ajo", "Salsa de soja", "Aceite de sésamo"],
+      "kcal": 180
+    },
+    {
+      "imagen": "enlace_a_imagen_2.jpg",
+      "titulo": "Wantán Frito",
+      "descripcion": "Wantán rellenos de carne de cerdo y camarones, fritos hasta que estén crujientes.",
+      "ingredientes": ["Carne de cerdo", "Camarones", "Cebolla verde", "Ajo", "Jengibre", "Salsa de soja"],
+      "kcal": 220
+    },
+    {
+      "imagen": "enlace_a_imagen_3.jpg",
+      "titulo": "Empanadillas al Vapor",
+      "descripcion": "Empanadillas de masa fina rellenas de carne de cerdo y vegetales, cocidas al vapor.",
+      "ingredientes": ["Carne de cerdo", "Repollo", "Cebollino", "Jengibre", "Aceite de sésamo"],
+      "kcal": 190
+    },
+    {
+      "imagen": "enlace_a_imagen_4.jpg",
+      "titulo": "Sopa de Maíz y Pollo",
+      "descripcion": "Sopa cremosa de maíz con trozos de pollo y cebollino fresco.",
+      "ingredientes": ["Caldo de pollo", "Maíz", "Pollo desmenuzado", "Cebollino", "Leche evaporada"],
+      "kcal": 210
+    },
+    {
+      "imagen": "enlace_a_imagen_5.jpg",
+      "titulo": "Bolitas de Camarón",
+      "descripcion": "Bolitas de camarón crujientes y marinadas en una salsa agridulce.",
+      "ingredientes": ["Camarones", "Huevo", "Harina de maíz", "Salsa de soja", "Azúcar", "Vinagre de arroz"],
+      "kcal": 240
+    },
+    {
+      "imagen": "enlace_a_imagen_6.jpg",
+      "titulo": "Brochetas de Pollo Teriyaki",
+      "descripcion": "Brochetas de pollo marinadas en salsa teriyaki y asadas a la parrilla.",
+      "ingredientes": ["Pechuga de pollo", "Salsa teriyaki", "Pimiento rojo", "Cebolla", "Aceite de sésamo"],
+      "kcal": 260
+    },
+    {
+      "imagen": "enlace_a_imagen_7.jpg",
+      "titulo": "Tallarines Fritos",
+      "descripcion": "Tallarines fritos con verduras y carne de cerdo, sazonados con salsa de soja.",
+      "ingredientes": ["Tallarines", "Carne de cerdo", "Brócoli", "Zanahoria", "Salsa de soja", "Aceite vegetal"],
+      "kcal": 290
+    },
+    {
+      "imagen": "enlace_a_imagen_8.jpg",
+      "titulo": "Alitas de Pollo a la Barbacoa",
+      "descripcion": "Alitas de pollo marinadas en salsa barbacoa y asadas hasta quedar crujientes.",
+      "ingredientes": ["Alitas de pollo", "Salsa barbacoa", "Miel", "Salsa de soja", "Ajo"],
+      "kcal": 310
+    }
+  ],
+  "sopas": [
+    {
+      "imagen": "enlace_a_imagen_9.jpg",
+      "titulo": "Sopa Agripicante",
+      "descripcion": "Sopa picante y ácida con tofu, champiñones y cerdo desmenuzado.",
+      "ingredientes": ["Caldo de pollo", "Tofu", "Champiñones", "Carne de cerdo", "Vinagre de arroz", "Pimiento picante"],
+      "kcal": 150
+    },
+    {
+      "imagen": "enlace_a_imagen_10.jpg",
+      "titulo": "Sopa de Fideos de Huevo",
+      "descripcion": "Sopa clara con fideos de huevo, pollo y cebollino fresco.",
+      "ingredientes": ["Caldo de pollo", "Fideos de huevo", "Pollo desmenuzado", "Cebollino", "Aceite de sésamo"],
+      "kcal": 200
+    },
+    {
+      "imagen": "enlace_a_imagen_11.jpg",
+      "titulo": "Sopa de Mariscos",
+      "descripcion": "Sopa abundante con una variedad de mariscos frescos y verduras, sazonada con jengibre y cilantro.",
+      "ingredientes": ["Caldo de pescado", "Camarones", "Calamares", "Mejillones", "Jengibre", "Cilantro"],
+      "kcal": 230
+    },
+    {
+      "imagen": "enlace_a_imagen_12.jpg",
+      "titulo": "Sopa de Tomate y Tofu",
+      "descripcion": "Sopa reconfortante con base de tomate y tofu, sazonada con cebollino y salsa de soja.",
+      "ingredientes": ["Caldo de verduras", "Tomate", "Tofu", "Cebollino", "Salsa de soja"],
+      "kcal": 180
+    },
+    {
+      "imagen": "enlace_a_imagen_13.jpg",
+      "titulo": "Sopa de Cangrejo y Maíz",
+      "descripcion": "Sopa cremosa con carne de cangrejo fresca y granos de maíz, sazonada con pimienta blanca.",
+      "ingredientes": ["Caldo de pescado", "Carne de cangrejo", "Maíz", "Cebollino", "Crema de leche"],
+      "kcal": 220
+    },
+    {
+      "imagen": "enlace_a_imagen_14.jpg",
+      "titulo": "Sopa de Algas y Tofu",
+      "descripcion": "Sopa ligera con algas marinas, tofu y cebollino fresco.",
+      "ingredientes": ["Caldo de verduras", "Algas marinas", "Tofu", "Cebollino", "Vinagre de arroz"],
+      "kcal": 160
+    },
+    {
+      "imagen": "enlace_a_imagen_15.jpg",
+      "titulo": "Sopa de Pollo y Maíz",
+      "descripcion": "Sopa reconfortante con trozos de pollo tierno y granos de maíz dulce.",
+      "ingredientes": ["Caldo de pollo", "Pollo desmenuzado", "Maíz", "Zanahoria", "Cebolla"],
+      "kcal": 190
+    },
+    {
+      "imagen": "enlace_a_imagen_16.jpg",
+      "titulo": "Sopa de Hongos",
+      "descripcion": "Sopa reconfortante con una variedad de hongos y cebollino fresco.",
+      "ingredientes": ["Caldo de verduras", "Hongos mixtos", "Cebollino", "Aceite de sésamo"],
+      "kcal": 170
+    }
+  ],
+  "platos_principales": [
+    {
+      "imagen": "enlace_a_imagen_17.jpg",
+      "titulo": "Pollo con Brotes de Bambú y Setas",
+      "descripcion": "Trozos de pollo salteados con brotes de bambú y setas en una salsa de soja aromática.",
+      "ingredientes": ["Pechuga de pollo", "Brotes de bambú", "Setas shiitake", "Jengibre", "Salsa de soja", "Aceite de sésamo"],
+      "kcal": 280
+    },
+    {
+      "imagen": "enlace_a_imagen_18.jpg",
+      "titulo": "Cerdo Agridulce",
+      "descripcion": "Trozos de cerdo fritos con pimientos, piña y salsa agridulce.",
+      "ingredientes": ["Lomo de cerdo", "Pimientos", "Piña", "Salsa agridulce", "Aceite vegetal"],
+      "kcal": 320
+    },
+    {
+      "imagen": "enlace_a_imagen_19.jpg",
+      "titulo": "Pato al Estilo Pekín",
+      "descripcion": "Pato crujiente marinado en una salsa especial, servido con panqueques y vegetales.",
+      "ingredientes": ["Pato", "Salsa hoisin", "Panqueques", "Cebollino", "Pepino"],
+      "kcal": 380
+    },
+    {
+      "imagen": "enlace_a_imagen_20.jpg",
+      "titulo": "Ternera con Brócoli",
+      "descripcion": "Ternera salteada con brócoli y salsa de ostras, servida sobre arroz blanco.",
+      "ingredientes": ["Ternera", "Brócoli", "Salsa de ostras", "Caldo de carne", "Arroz blanco"],
+      "kcal": 350
+    },
+    {
+      "imagen": "enlace_a_imagen_21.jpg",
+      "titulo": "Pescado al Vapor con Jengibre",
+      "descripcion": "Filete de pescado al vapor con jengibre y cebollino fresco, sazonado con salsa de soja.",
+      "ingredientes": ["Filete de pescado blanco", "Jengibre", "Cebollino", "Salsa de soja", "Aceite de sésamo"],
+      "kcal": 270
+    },
+    {
+      "imagen": "enlace_a_imagen_22.jpg",
+      "titulo": "Arroz Frito con Gambas",
+      "descripcion": "Arroz frito salteado con gambas, guisantes y cebolla, sazonado con salsa de soja.",
+      "ingredientes": ["Arroz cocido", "Gambas", "Guisantes", "Cebolla", "Salsa de soja", "Aceite de sésamo"],
+      "kcal": 300
+    },
+    {
+      "imagen": "enlace_a_imagen_23.jpg",
+      "titulo": "Tofu Salteado con Vegetales",
+      "descripcion": "Tofu firme salteado con una variedad de vegetales frescos y salsa de soja.",
+      "ingredientes": ["Tofu", "Pimientos", "Calabacín", "Salsa de soja", "Aceite vegetal"],
+      "kcal": 240
+    },
+    {
+      "imagen": "enlace_a_imagen_24.jpg",
+      "titulo": "Costillas a la Sichuan",
+      "descripcion": "Costillas de cerdo marinadas en una mezcla picante de especias de Sichuan y asadas a la parrilla.",
+      "ingredientes": ["Costillas de cerdo", "Salsa de soja", "Aceite de sésamo", "Pimienta de Sichuan", "Jengibre"],
+      "kcal": 360
+    }
+  ],
+  "acompanamientos": [
+    {
+      "imagen": "enlace_a_imagen_25.jpg",
+      "titulo": "Arroz Frito",
+      "descripcion": "Arroz salteado con huevo, guisantes y cebollino.",
+      "ingredientes": ["Arroz cocido", "Huevo", "Guisantes", "Cebollino", "Aceite de sésamo"],
+      "kcal": 220
+    },
+    {
+      "imagen": "enlace_a_imagen_26.jpg",
+      "titulo": "Chop Suey de Verduras",
+      "descripcion": "Mezcla de verduras salteadas con salsa de soja y servidas sobre fideos de arroz.",
+      "ingredientes": ["Brócoli", "Zanahoria", "Pimientos", "Bambú", "Salsa de soja", "Fideos de arroz"],
+      "kcal": 180
+    },
+    {
+      "imagen": "enlace_a_imagen_27.jpg",
+      "titulo": "Ensalada China de Pepino",
+      "descripcion": "Ensalada fresca de pepino marinado con vinagre de arroz y cilantro fresco.",
+      "ingredientes": ["Pepino", "Vinagre de arroz", "Cilantro", "Azúcar", "Salsa de soja"],
+      "kcal": 160
+    },
+    {
+      "imagen": "enlace_a_imagen_28.jpg",
+      "titulo": "Verduras al Vapor",
+      "descripcion": "Variedad de verduras frescas al vapor, servidas con salsa de soja y jengibre.",
+      "ingredientes": ["Brócoli", "Zanahoria", "Calabacín", "Salsa de soja", "Jengibre"],
+      "kcal": 140
+    },
+    {
+      "imagen": "enlace_a_imagen_29.jpg",
+      "titulo": "Fideos de Huevo Salteados",
+      "descripcion": "Fideos de huevo salteados con verduras frescas y salsa de soja.",
+      "ingredientes": ["Fideos de huevo", "Pimientos", "Cebolla", "Salsa de soja", "Aceite de sésamo"],
+      "kcal": 200
+    },
+    {
+      "imagen": "enlace_a_imagen_30.jpg",
+      "titulo": "Tallarines de Arroz con Salsa de Maní",
+      "descripcion": "Tallarines de arroz servidos con una salsa cremosa de maní y verduras salteadas.",
+      "ingredientes": ["Tallarines de arroz", "Salsa de maní", "Pimientos", "Cebolla", "Aceite de sésamo"],
+      "kcal": 250
+    },
+    {
+      "imagen": "enlace_a_imagen_31.jpg",
+      "titulo": "Berenjenas al Estilo Sichuan",
+      "descripcion": "Berenjenas fritas y marinadas en una salsa picante de chiles de Sichuan.",
+      "ingredientes": ["Berenjenas", "Aceite de sésamo", "Pimienta de Sichuan", "Vinagre de arroz", "Azúcar"],
+      "kcal": 190
+    },
+    {
+      "imagen": "enlace_a_imagen_32.jpg",
+      "titulo": "Col China Salteada con Ajo",
+      "descripcion": "Col china salteada con ajo fresco y un toque de salsa de soja.",
+      "ingredientes": ["Col china", "Ajo", "Salsa de soja", "Aceite de sésamo"],
+      "kcal": 170
+    }
+  ],
+  "postres": [
+    {
+      "imagen": "enlace_a_imagen_33.jpg",
+      "titulo": "Buñuelos de Plátano",
+      "descripcion": "Plátanos fritos en una masa dulce, espolvoreados con azúcar glas.",
+      "ingredientes": ["Plátanos", "Harina", "Azúcar", "Canela"],
+      "kcal": 250
+    },
+    {
+      "imagen": "enlace_a_imagen_34.jpg",
+      "titulo": "Tarta de Sésamo Negro",
+      "descripcion": "Tarta cremosa con un toque de sabor a sésamo negro, servida fría.",
+      "ingredientes": ["Harina de trigo", "Sésamo negro", "Azúcar", "Crema de leche"],
+      "kcal": 300
+    },
+    {
+      "imagen": "enlace_a_imagen_35.jpg",
+      "titulo": "Helado de Té Verde",
+      "descripcion": "Helado suave con un intenso sabor a té verde, servido con sirope de azúcar.",
+      "ingredientes": ["Leche", "Crema de leche", "Té verde", "Azúcar"],
+      "kcal": 280
+    },
+    {
+      "imagen": "enlace_a_imagen_36.jpg",
+      "titulo": "Bolas de Taro Fritas",
+      "descripcion": "Bolas de taro dulces y crujientes, servidas con un jarabe de azúcar.",
+      "ingredientes": ["Taro", "Harina de maíz", "Azúcar", "Aceite vegetal"],
+      "kcal": 320
+    },
+    {
+      "imagen": "enlace_a_imagen_37.jpg",
+      "titulo": "Gelatina de Lychee",
+      "descripcion": "Gelatina aromática con sabor a lychee, servida con rodajas de fruta fresca.",
+      "ingredientes": ["Lychee en almíbar", "Gelatina en polvo", "Agua"],
+      "kcal": 200
+    },
+    {
+      "imagen": "enlace_a_imagen_38.jpg",
+      "titulo": "Pastel de Frijoles Rojos",
+      "descripcion": "Pastel tradicional chino relleno de pasta de frijoles rojos dulces.",
+      "ingredientes": ["Frijoles rojos", "Harina de arroz", "Azúcar", "Aceite vegetal"],
+      "kcal": 280
+    },
+    {
+      "imagen": "enlace_a_imagen_39.jpg",
+      "titulo": "Crepes de Mango",
+      "descripcion": "Crepes rellenos de mango fresco y crema batida, espolvoreados con azúcar glas.",
+      "ingredientes": ["Mango", "Harina de trigo", "Huevo", "Azúcar", "Crema de leche"],
+      "kcal": 310
+    },
+    {
+      "imagen": "enlace_a_imagen_40.jpg",
+      "titulo": "Fruta Fresca Variada",
+      "descripcion": "Selección de frutas frescas de temporada, servidas con una salsa de jengibre y miel.",
+      "ingredientes": ["Piña", "Sandía", "Fresas", "Melón", "Jengibre", "Miel"],
+      "kcal": 180
+    }
+  ],
+  "bebidas": [
+    {
+      "imagen": "enlace_a_imagen_41.jpg",
+      "titulo": "Té de Jazmín",
+      "descripcion": "Té verde perfumado con delicadas flores de jazmín, servido caliente o frío.",
+      "ingredientes": ["Té verde", "Flores de jazmín"],
+      "kcal": 5
+    },
+    {
+      "imagen": "enlace_a_imagen_42.jpg",
+      "titulo": "Limonada de Hierbabuena",
+      "descripcion": "Refrescante limonada con hojas de hierbabuena fresca y un toque de miel.",
+      "ingredientes": ["Limón", "Hierbabuena", "Agua", "Miel"],
+      "kcal": 70
+    },
+    {
+      "imagen": "enlace_a_imagen_43.jpg",
+      "titulo": "Té Helado de Durazno",
+      "descripcion": "Té negro helado con sabor a durazno y un toque de menta fresca.",
+      "ingredientes": ["Té negro", "Durazno", "Menta", "Hielo"],
+      "kcal": 90
+    },
+    {
+      "imagen": "enlace_a_imagen_44.jpg",
+      "titulo": "Café Vietnamita",
+      "descripcion": "Café negro fuerte con leche condensada dulce, servido sobre hielo.",
+      "ingredientes": ["Café negro", "Leche condensada", "Hielo"],
+      "kcal": 150
+    },
+    {
+      "imagen": "enlace_a_imagen_45.jpg",
+      "titulo": "Agua de Coco Fresca",
+      "descripcion": "Agua de coco recién extraída de cocos frescos, servida fría.",
+      "ingredientes": ["Agua de coco"],
+      "kcal": 45
+    },
+    {
+      "imagen": "enlace_a_imagen_46.jpg",
+      "titulo": "Jugo de Lichi",
+      "descripcion": "Jugo dulce y refrescante hecho de lichis frescos.",
+      "ingredientes": ["Lichi"],
+      "kcal": 80
+    },
+    {
+      "imagen": "enlace_a_imagen_47.jpg",
+      "titulo": "Batido de Mango",
+      "descripcion": "Batido cremoso hecho con mango maduro, leche y un toque de azúcar.",
+      "ingredientes": ["Mango", "Leche", "Azúcar"],
+      "kcal": 200
+    },
+    {
+      "imagen": "enlace_a_imagen_48.jpg",
+      "titulo": "Zumo de Naranja Fresco",
+      "descripcion": "Zumo de naranja recién exprimido, sin azúcares añadidos.",
+      "ingredientes": ["Naranjas"],
+      "kcal": 110
+    },
+    {
+      "imagen": "enlace_a_imagen_49.jpg",
+      "titulo": "Lassi de Mango",
+      "descripcion": "Bebida tradicional india a base de yogur y mango, ligeramente especiada.",
+      "ingredientes": ["Mango", "Yogur", "Cardamomo", "Azúcar"],
+      "kcal": 180
+    },
+    {
+      "imagen": "enlace_a_imagen_50.jpg",
+      "titulo": "Ponche de Frutas",
+      "descripcion": "Refrescante ponche de frutas mixtas con jugo de naranja y soda.",
+      "ingredientes": ["Piña", "Sandía", "Fresas", "Naranja", "Soda"],
+      "kcal": 120
+    }
+  ],
+  "cocteles": [
+    {
+      "imagen": "enlace_a_imagen_51.jpg",
+      "titulo": "Mai Tai",
+      "descripcion": "Cóctel tropical con ron, licor de almendra, jugo de limón y un toque de granadina.",
+      "ingredientes": ["Ron blanco", "Licor de almendra", "Jugo de limón", "Granadina", "Hielo"],
+      "kcal": 250
+    },
+    {
+      "imagen": "enlace_a_imagen_52.jpg",
+      "titulo": "Margarita",
+      "descripcion": "Cóctel clásico con tequila, triple sec, jugo de lima y un borde de sal en el vaso.",
+      "ingredientes": ["Tequila", "Triple sec", "Jugo de lima", "Sal", "Hielo"],
+      "kcal": 200
+    },
+    {
+      "imagen": "enlace_a_imagen_53.jpg",
+      "titulo": "Piña Colada",
+      "descripcion": "Cóctel tropical cremoso con ron, crema de coco y jugo de piña, servido con hielo triturado.",
+      "ingredientes": ["Ron blanco", "Crema de coco", "Jugo de piña", "Hielo triturado"],
+      "kcal": 300
+    },
+    {
+      "imagen": "enlace_a_imagen_54.jpg",
+      "titulo": "Daiquiri de Fresa",
+      "descripcion": "Cóctel refrescante con ron, fresas frescas, jugo de limón y un toque de azúcar.",
+      "ingredientes": ["Ron blanco", "Fresas", "Jugo de limón", "Azúcar", "Hielo"],
+      "kcal": 180
+    },
+    {
+      "imagen": "enlace_a_imagen_55.jpg",
+      "titulo": "Caipirinha",
+      "descripcion": "Cóctel brasileño con cachaça, lima, azúcar y hielo triturado.",
+      "ingredientes": ["Cachaça", "Lima", "Azúcar", "Hielo triturado"],
+      "kcal": 220
+    },
+    {
+      "imagen": "enlace_a_imagen_56.jpg",
+      "titulo": "Mojito",
+      "descripcion": "Cóctel refrescante con ron, menta, lima, azúcar y soda.",
+      "ingredientes": ["Ron blanco", "Menta", "Lima", "Azúcar", "Soda", "Hielo"],
+      "kcal": 170
+    },
+    {
+      "imagen": "enlace_a_imagen_57.jpg",
+      "titulo": "Martini",
+      "descripcion": "Cóctel elegante con ginebra o vodka y un toque de vermut, servido con una aceituna.",
+      "ingredientes": ["Ginebra o Vodka", "Vermut seco", "Aceituna"],
+      "kcal": 160
+    },
+    {
+      "imagen": "enlace_a_imagen_58.jpg",
+      "titulo": "Whisky Sour",
+      "descripcion": "Cóctel clásico con whisky, jugo de limón, azúcar y clara de huevo.",
+      "ingredientes": ["Whisky", "Jugo de limón", "Azúcar", "Clara de huevo", "Hielo"],
+      "kcal": 190
+    },
+    {
+      "imagen": "enlace_a_imagen_59.jpg",
+      "titulo": "Bloody Mary",
+      "descripcion": "Cóctel picante con vodka, jugo de tomate, salsa picante, lima y especias.",
+      "ingredientes": ["Vodka", "Jugo de tomate", "Salsa picante", "Lima", "Especias"],
+      "kcal": 140
+    },
+    {
+      "imagen": "enlace_a_imagen_60.jpg",
+      "titulo": "Negroni",
+      "descripcion": "Cóctel equilibrado con ginebra, vermut rojo y Campari, servido con una rodaja de naranja.",
+      "ingredientes": ["Ginebra", "Vermut rojo", "Campari", "Naranja"],
+      "kcal": 180
+    }
+  ]
+}
